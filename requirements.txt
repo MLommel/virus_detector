@@ -5,4 +5,5 @@ streamlit
 streamlit-aggrid
 scikit-learn
 scikit-image
-
+matplotlib.pyplot
+pickle
